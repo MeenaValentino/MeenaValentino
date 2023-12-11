@@ -41,4 +41,4 @@ Feel free to connect with me! I'm always open to discussing new ideas and opport
 [certification_link2]: # "Hyperlink to Oracle Cloud Data Management 2023 Certified Foundations Associate certification"
 [certification_link3]: # "Hyperlink to Oracle Cloud Infrastructure 2023 Certified Foundations Associate certification"
 [certification_link4]: # "Hyperlink to SQL and Relational Databases 101 certification"
-[linkedin_profile_link]: # "Hyperlink to LinkedIn profile
+
