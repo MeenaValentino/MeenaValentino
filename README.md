@@ -34,11 +34,10 @@ I am Meena Kyra C. Valentino, a passionate individual with a flair for coding an
 
 ## Reach Me
 - Email: valentinomeena@gmail.com
-- [Linkedin:](https://www.linkedin.com/in/meena-valentino-2688b92a3/)
+- Linkedin:[Linkedin:](https://www.linkedin.com/in/meena-valentino-2688b92a3/)
 Feel free to connect with me! I'm always open to discussing new ideas and opportunities.
 
 [certification_link1]: # "Hyperlink to Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate certification"
 [certification_link2]: # "Hyperlink to Oracle Cloud Data Management 2023 Certified Foundations Associate certification"
 [certification_link3]: # "Hyperlink to Oracle Cloud Infrastructure 2023 Certified Foundations Associate certification"
 [certification_link4]: # "Hyperlink to SQL and Relational Databases 101 certification"
-[linkedin_profile_link]: # "Hyperlink to LinkedIn profile
