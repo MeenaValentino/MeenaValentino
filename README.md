@@ -8,7 +8,7 @@ I am Meena Kyra C. Valentino, a passionate individual with a flair for coding an
 
 - BS Information Technology
   - New Era University
-  - 2021 - Present
+  - 2022 - Present
 
 ## Certification
 
