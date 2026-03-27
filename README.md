@@ -21,6 +21,7 @@ I’m a passionate BS Information Technology student at **New Era University**, 
 - [✅ Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E115C82561154B074C12677577069FD37387DCC54030AC66DFC339BF60CD75A3)
 - [✅ Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E8FE207FC1E69149A58977551E577E605DB6EDEDD7EF6197A50574D4A2F60DAA)
 - [✅ SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/afa43f6a012648f49e64da56afaffc72)
+- [✅ Ethical Hacker](https://www.credly.com/badges/17217817-9b64-475f-a070-82eeb82f0599)
 
 ---
 
