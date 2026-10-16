@@ -10,7 +10,7 @@ I’m a passionate BS Information Technology student at **New Era University**, 
 
 **Bachelor of Science in Information Technology**  
 *New Era University*  
-📅 2022 – Present
+📅 2022 – 2026
 
 ---
 
